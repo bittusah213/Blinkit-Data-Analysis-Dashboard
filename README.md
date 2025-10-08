@@ -77,5 +77,5 @@
 #### Compares key metrics across outlet types.
 #### Supermarket Type1 has the highest sales and item count.
 
-<src img="https://github.com/bittusah213/Blinkit-Data-Analysis-Dashboard/blob/main/Screenshot%202025-10-08%20180547.png">
+<img src="https://github.com/bittusah213/Blinkit-Data-Analysis-Dashboard/blob/main/Screenshot%202025-10-08%20180547.png">
 
